@@ -1,4 +1,5 @@
 # Power-BI
 
-This is my first Data analysis and Visualization Dashboard for Ecommerce store
+This Repo contain all my Data Analysis and Power BI visualization works.
+<br><\br>
 Author - Bibhutibhushana Sahu
